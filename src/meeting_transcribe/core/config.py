@@ -19,7 +19,7 @@ OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 # OpenRouter chat max_tokens — speaker labeling must fit full diarized text (Hebrew expands output).
 SPEAKER_LABEL_MAX_TOKENS = 65536
-RECONCILE_MAX_TOKENS = 65536
+RECONCILE_MAX_TOKENS = 131072
 STRUCTURE_NOTES_MAX_TOKENS = 16384
 
 REF_DOC_MAX_BYTES = 400_000
