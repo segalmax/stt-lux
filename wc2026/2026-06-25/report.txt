@@ -1,0 +1,160 @@
+
+## Ivory Coast v Curacao  (KO Jun25 23:00 IDT)
+P(win Ivory Coast)=82%  P(draw)=12%  P(win Curacao)=6%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Ivory Coast 2-0              P=14.7%  EV=1.111
+  Ivory Coast 3-0              P=13.5%  EV=1.088
+  Ivory Coast 1-0              P=10.4%  EV=1.025
+  Ivory Coast 4-0              P= 9.3%  EV=1.003
+  Ivory Coast 2-1              P= 8.0%  EV=0.978
+  Ivory Coast 3-1              P= 7.3%  EV=0.964
+BEST PICK: Ivory Coast 2-0  (EV 1.111, P 14.7%)
+BEST DRAW: Draw 1-1  (EV 0.231, P 5.3%)
+
+## Germany v Ecuador  (KO Jun25 23:00 IDT)
+P(win Germany)=54%  P(draw)=21%  P(win Ecuador)=24%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Germany 1-0                  P=10.6%  EV=0.757
+  Germany 2-1                  P=10.6%  EV=0.757
+  Germany 2-0                  P= 9.6%  EV=0.736
+  Germany 3-0                  P= 6.4%  EV=0.672
+  Germany 3-1                  P= 6.4%  EV=0.672
+  Germany 3-2                  P= 4.2%  EV=0.628
+BEST PICK: Germany 1-0  (EV 0.757, P 10.6%)
+BEST DRAW: Draw 1-1  (EV 0.418, P 10.3%)
+
+## Japan v Sweden  (KO Jun26 02:00 IDT)
+P(win Japan)=51%  P(draw)=27%  P(win Sweden)=22%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Japan 1-0                    P=10.2%  EV=0.716
+  Japan 2-1                    P=10.2%  EV=0.716
+  Japan 2-0                    P= 9.2%  EV=0.696
+  Japan 3-1                    P= 6.1%  EV=0.634
+  Japan 3-0                    P= 5.4%  EV=0.620
+  Japan 3-2                    P= 4.0%  EV=0.591
+BEST PICK: Japan 1-0  (EV 0.716, P 10.2%)
+BEST DRAW: Draw 1-1  (EV 0.525, P 12.7%)
+
+## Netherlands v Tunisia  (KO Jun26 02:00 IDT)
+P(win Netherlands)=85%  P(draw)=11%  P(win Tunisia)=4%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Netherlands 2-0              P=14.4%  EV=1.141
+  Netherlands 3-0              P=14.4%  EV=1.141
+  Netherlands 4-0              P=10.8%  EV=1.069
+  Netherlands 1-0              P= 9.6%  EV=1.045
+  Netherlands 2-1              P= 6.6%  EV=0.986
+  Netherlands 3-1              P= 6.6%  EV=0.986
+BEST PICK: Netherlands 2-0  (EV 1.141, P 14.4%)
+BEST DRAW: Draw 0-0  (EV 0.198, P 4.4%)
+
+## USA v Turkey  (KO Jun26 05:00 IDT)
+P(win USA)=42%  P(draw)=26%  P(win Turkey)=33%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  USA 1-0                      P= 9.0%  EV=0.597
+  USA 2-1                      P= 9.0%  EV=0.597
+  USA 2-0                      P= 7.3%  EV=0.564
+  USA 3-1                      P= 5.4%  EV=0.525
+  Turkey 1-0                   P= 9.4%  EV=0.514
+  Turkey 2-1                   P= 9.4%  EV=0.514
+BEST PICK: USA 1-0  (EV 0.597, P 9.0%)
+BEST DRAW: Draw 1-1  (EV 0.506, P 12.4%)
+
+## Australia v Paraguay  (KO Jun26 05:00 IDT)
+P(win Australia)=31%  P(draw)=39%  P(win Paraguay)=30%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Draw 0-0                     P=18.9%  EV=0.766
+  Draw 1-1                     P=15.1%  EV=0.690
+  Australia 1-0                P=13.3%  EV=0.577
+  Paraguay 1-0                 P=11.1%  EV=0.522
+  Draw 2-2                     P= 4.7%  EV=0.482
+  Australia 2-1                P= 6.6%  EV=0.444
+BEST PICK: Draw 0-0  (EV 0.766, P 18.9%)
+BEST DRAW: Draw 0-0  (EV 0.766, P 18.9%)
+
+## France v Norway  (KO Jun26 22:00 IDT)
+P(win France)=57%  P(draw)=21%  P(win Norway)=22%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  France 1-0                   P=10.8%  EV=0.785
+  France 2-1                   P=10.8%  EV=0.785
+  France 2-0                   P=10.2%  EV=0.773
+  France 3-0                   P= 7.1%  EV=0.710
+  France 3-1                   P= 7.1%  EV=0.710
+  France 3-2                   P= 4.0%  EV=0.649
+BEST PICK: France 1-0  (EV 0.785, P 10.8%)
+BEST DRAW: Draw 1-1  (EV 0.416, P 10.2%)
+
+## Senegal v Iraq  (KO Jun26 22:00 IDT)
+P(win Senegal)=76%  P(draw)=17%  P(win Iraq)=8%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Senegal 2-0                  P=12.9%  EV=1.014
+  Senegal 3-0                  P=11.3%  EV=0.982
+  Senegal 1-0                  P=10.6%  EV=0.968
+  Senegal 2-1                  P= 9.0%  EV=0.937
+  Senegal 3-1                  P= 8.2%  EV=0.920
+  Senegal 4-0                  P= 7.5%  EV=0.906
+BEST PICK: Senegal 2-0  (EV 1.014, P 12.9%)
+BEST DRAW: Draw 1-1  (EV 0.316, P 7.4%)
+
+## Cape Verde v Saudi Arabia  (KO Jun27 03:00 IDT)
+P(win Cape Verde)=39%  P(draw)=27%  P(win Saudi Arabia)=34%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Cape Verde 1-0               P=10.9%  EV=0.605
+  Cape Verde 2-1               P= 9.3%  EV=0.572
+  Saudi Arabia 1-0             P= 9.8%  EV=0.539
+  Draw 1-1                     P=13.0%  EV=0.530
+  Cape Verde 2-0               P= 7.2%  EV=0.529
+  Saudi Arabia 2-1             P= 8.4%  EV=0.513
+BEST PICK: Cape Verde 1-0  (EV 0.605, P 10.9%)
+BEST DRAW: Draw 1-1  (EV 0.530, P 13.0%)
+
+## Spain v Uruguay  (KO Jun27 03:00 IDT)
+P(win Spain)=57%  P(draw)=27%  P(win Uruguay)=16%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Spain 1-0                    P=11.5%  EV=0.799
+  Spain 2-0                    P=11.5%  EV=0.799
+  Spain 2-1                    P= 8.9%  EV=0.748
+  Spain 3-0                    P= 7.3%  EV=0.715
+  Spain 3-1                    P= 6.2%  EV=0.693
+  Spain 4-0                    P= 3.8%  EV=0.646
+BEST PICK: Spain 1-0  (EV 0.799, P 11.5%)
+BEST DRAW: Draw 1-1  (EV 0.526, P 12.7%)
+
+## Egypt v Iran  (KO Jun27 06:00 IDT)
+P(win Egypt)=39%  P(draw)=36%  P(win Iran)=25%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Draw 0-0                     P=15.8%  EV=0.677
+  Draw 1-1                     P=15.8%  EV=0.677
+  Egypt 1-0                    P=13.4%  EV=0.655
+  Egypt 2-0                    P= 7.9%  EV=0.545
+  Egypt 2-1                    P= 7.9%  EV=0.545
+  Egypt 3-0                    P= 3.8%  EV=0.462
+BEST PICK: Draw 0-0  (EV 0.677, P 15.8%)
+BEST DRAW: Draw 0-0  (EV 0.677, P 15.8%)
+
+## Belgium v New Zealand  (KO Jun27 06:00 IDT)
+P(win Belgium)=83%  P(draw)=11%  P(win New Zealand)=6%
+Top 6 by EV (fav-dog scoreline | P(exact) | EV):
+  Belgium 2-0                  P=13.6%  EV=1.099
+  Belgium 3-0                  P=13.6%  EV=1.099
+  Belgium 1-0                  P=10.4%  EV=1.035
+  Belgium 4-0                  P= 9.3%  EV=1.013
+  Belgium 2-1                  P= 8.1%  EV=0.987
+  Belgium 3-1                  P= 7.4%  EV=0.974
+BEST PICK: Belgium 2-0  (EV 1.099, P 13.6%)
+BEST DRAW: Draw 1-1  (EV 0.203, P 4.6%)
+
+
+# SUMMARY — best pick per match
+Match                        KO IDT       Best pick                  EV  Best draw    EVd
+Ivory Coast v Curacao        Jun25 23:00  Ivory Coast 2-0         1.111  Draw 1-1   0.231
+Germany v Ecuador            Jun25 23:00  Germany 1-0             0.757  Draw 1-1   0.418
+Japan v Sweden               Jun26 02:00  Japan 1-0               0.716  Draw 1-1   0.525
+Netherlands v Tunisia        Jun26 02:00  Netherlands 2-0         1.141  Draw 0-0   0.198
+USA v Turkey                 Jun26 05:00  USA 1-0                 0.597  Draw 1-1   0.506
+Australia v Paraguay         Jun26 05:00  Draw 0-0                0.766  Draw 0-0   0.766
+France v Norway              Jun26 22:00  France 1-0              0.785  Draw 1-1   0.416
+Senegal v Iraq               Jun26 22:00  Senegal 2-0             1.014  Draw 1-1   0.316
+Cape Verde v Saudi Arabia    Jun27 03:00  Cape Verde 1-0          0.605  Draw 1-1   0.530
+Spain v Uruguay              Jun27 03:00  Spain 1-0               0.799  Draw 1-1   0.526
+Egypt v Iran                 Jun27 06:00  Draw 0-0                0.677  Draw 0-0   0.677
+Belgium v New Zealand        Jun27 06:00  Belgium 2-0             1.099  Draw 1-1   0.203
